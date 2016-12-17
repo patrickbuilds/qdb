@@ -1,0 +1,11 @@
+« mode » {Jeus} sets {+b *!*@godhates-D8E2D2B8.dyn.optonline.net}
+« This {*!*@godhates-D8E2D2B8.dyn.optonline.net} ban affects {v3}
+« kick » {v3} was kicked by {septor} {Matching *!*@godhates-D8E2D2B8.dyn.optonline.net ban by Jeus '93'}
+« mode » {Jeus} sets {+b *!*@1.0.0.127.in-addr.arpa}
+« This {*!*@1.0.0.127.in-addr.arpa} ban affects {Joe}
+« kick » {Joe} was kicked by {septor} {Matching *!*@1.0.0.127.in-addr.arpa ban by Jeus '94'}
+« mode » {Jeus} sets {-b *!*@1.0.0.127.in-addr.arpa}
+« mode » {Jeus} sets {-b *!*@godhates-D8E2D2B8.dyn.optonline.net}
+« join » {Joe} {joe@1.0.0.127.in-addr.arpa}
+« join » {v3} {boob@godhates-D8E2D2B8.dyn.optonline.net}
+{@Jeus} team work ++				

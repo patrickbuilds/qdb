@@ -1,0 +1,1 @@
+<@septor> DELTREE /Y C:....AIM.EXE

@@ -1,0 +1,2 @@
+<@Jeus> how many milliseconds are in 1 minute?
+<Kevo> 1000?

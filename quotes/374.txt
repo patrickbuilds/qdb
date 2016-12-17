@@ -1,0 +1,5 @@
+<%septor> .pizza
+<rabbit> I let senses# know you wanted a pizza.
+<Senses3> NO MORE PIZZA FOR ANYONE!!
+<Senses3> you guys have had enough, i'm cutting you off
+<%septor> I'M A SYSTEM ADMINISTRATOR OF GETTING PIZZA

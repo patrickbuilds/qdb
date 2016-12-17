@@ -1,0 +1,6 @@
+<Spaz> i am going to install a honeypot on my system 
+<Spaz> just to see
+* Quits: Spaz (Spaz@1409f3f8.3a1d2920.bchsia.telus.net) (Read error: Connection reset by peer)
+<!klassik> how do you install a honey pot?
+<@methodik> get a few bears, and some bees
+<qoa> He's got a honeypot.exe

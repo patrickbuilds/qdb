@@ -1,0 +1,11 @@
+<gnarfel> -bomb WTC
+<b0t> [bomb] WTC is not in the channel!
+<&Hope> lol terrorist
+nick: (Hope) is now known as (WTC)
+<&WTC> -bomb
+* b0t places a bomb in WTC's pants!
+<b0t> [bomb] You can defuse the bomb by cutting one of the following wires - type '-cut <color>': Red, Black, Beige, Fuchsia, Tan.
+<&WTC> -cut red
+<b0t> [bomb] Sorry WTC, correct color was Tan. You're dead, good job.
+<&WTC> OH NO I AM THE FALLING
+nick: (WTC) is now known as (Hope)

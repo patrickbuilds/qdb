@@ -1,0 +1,20 @@
+* qoa changes topic to ' If you want your own vhost /msg hostserv help | EVERYONE COPY AND PASTE: /j #2,000 '
+<@Caboose> that goes to channel #2
+<qoa> Paste /j #2,000 
+<qoa> Mofo.
+* Parts: @Caboose (Caboose@godhates.us) (Left all channels)
+* Joins: Caboose (Caboose@godhates.us)
+* PixelServ sets mode: +o Caboose
+* qoa chuckles
+
+<%prime> whats #2,000 ?
+<@Caboose> the place to be.
+* Parts: %prime (prime1@PIX-EAE08B79.dsl.mindspring.com) (Left all channels)
+
+* Joins: Jeus (jeus@godhates.us)
+* Parts: Jeus (jeus@godhates.us) (Left all channels)
+* Joins: Jeus (jeus@godhates.us)
+
+* Parts: Kevo (Kevo@illego.net) (Left all channels)
+* Joins: Kevo (Kevo@illego.net)
+<Kevo> that /j #2,000 is lame

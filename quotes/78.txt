@@ -1,0 +1,3 @@
+<Rush68> .help 
+<pixelBOT> !help <komento> [keyword] [all]. Antamalla keywordin saat komennon tietystÃ¤ ominaisuudesta apua. all-switchillÃ¤ nÃ¤Ã¤t kaiken mahdollisen avun komennosta. Apua on saatavilla seuraavista komennoista: 
+<@Rush68> wtf at pixelbot
