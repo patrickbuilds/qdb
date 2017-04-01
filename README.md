@@ -5,7 +5,19 @@
 
 ## Submitting Quotes
 
-They will be done by pull request to this repo. There will be rules and if you fuck it up the PR will be denied.
+Quotes can be submitted two ways:
+
+1. By forking this repo and submitting a pull request with your included quotes.
+2. Creating an issue titled `New Quote` and including your quote content in the issue text.
+
+There are rules, however, so pay attention or your quotes will get denied.
+
+1. The website assumes quotes are in IRC format, so plan accordingly.
+2. If your quote contains links to a website make sure it's not shitty.
+3. Remove filler chat text.
+4. Remove trailing laughs if it's not constructive.
+5. Make sure it's funny to everyone, not just in your context.
+6. Quotes are subject to my inspection, and can be denied for any reason I choose, even if not listed above.
 
 ## Reporting Quotes
 
