@@ -1,7 +1,7 @@
 # Chickfights' Quote Database
 
 * This repo holds all the quotes available on [chickfights.us](http://chickfights.us/).
-* You can access a JSON file with all the quotes bundled up [here](http://chickfights.us/quotes.json).
+* You can access a JSON file with all the quotes bundled up [here](https://raw.githubusercontent.com/chickfights/qdb/master/quotes.json).
 
 ## Submitting Quotes
 
